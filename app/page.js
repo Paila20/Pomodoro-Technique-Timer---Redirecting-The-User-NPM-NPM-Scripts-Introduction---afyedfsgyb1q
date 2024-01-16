@@ -1,3 +1,4 @@
+'use effect'
 import { useEffect, useState } from "react";
 
 const App = () => {
